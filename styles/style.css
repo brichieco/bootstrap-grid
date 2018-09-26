@@ -1,0 +1,95 @@
+/* .my-first{
+  background-color: red;
+}
+.my-second{
+  background-color: green;
+}
+.my-third{
+  background-color: blue;
+}
+.my-fourth{
+  background-color: orange;
+}
+.my-fluid{
+  background-color: black;
+  padding:10px;
+}
+.my-container{
+  background-color: pink;
+  padding:20px;
+}
+.col-lg-4{
+  border: 2px solid black;
+}
+.col-lg-6{
+  border: 3px dashed blue;
+}
+.col-lg-3{
+  border: 1px solid pink;
+}
+*/.my-jumbo{
+  background-image: url(../images/beach.jpg);
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.my-jumbo h1{
+  color:#fefefe;
+}
+.my-jumbo p{
+  color:#fefefe;
+  font-weight: bold;
+}
+.tales {
+  width: 100%;
+}
+.carousel-inner img{
+  width:100%;
+  height: 80vh;
+  overflow:hidden;
+
+}
+.carousel{
+  padding-bottom: 5vh;
+  height:80vh;
+}
+.btn{
+  height: 5vh;
+  width:10vh;
+}
+.text-align{
+  text-align:center;
+
+}
+.a{
+  background-color:blue;
+}
+.b{background-color: green;
+}
+.c {
+  background-color: #fe76fe;
+}
+.d{
+  background-color: #2222ff;
+}
+.responsive{
+  height:100px;
+  width:100px;
+  background-color: green;
+}
+@media (max-width:500px) {
+  .responsive{
+    background-color:yellow;
+  }
+}
+@media (min-width:501px) and (max-width:768px){
+  .responsive{
+    height:100px;
+    width:500px;
+    background-color: pink;
+  }
+}
+@media (min-width:769px){
+  .responsive{
+    display:none;
+  }
+}
